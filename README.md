@@ -1,4 +1,4 @@
-### 🧠 My Machine Learning Journey
+## 🧠 My Machine Learning Journey
 
 Welcome! This repository documents my learning journey in Machine Learning (ML). Here, I transform theoretical concepts into hands-on implementations — building projects, exploring datasets, and improving my coding and analytical skills every week.
 

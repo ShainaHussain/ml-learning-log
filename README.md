@@ -75,8 +75,8 @@ Portfolio Growth: Enhance GitHub with clean, reproducible projects
 
 I’m Shaina Hussain, passionate about turning data into actionable insights and building AI solutions that can make a real impact. This repo is my ongoing journey of learning, experimenting, and growing as a Machine Learning Engineer.
 
-🌐 Connect with Me
+## 🌐 Connect with Me
 
-🔗 LinkedIn
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shaina-hussain/)  
+- 📊 [Kaggle](https://www.kaggle.com/shaina01032006)  
 
-📊 Kaggle

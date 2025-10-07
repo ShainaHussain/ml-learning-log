@@ -5,12 +5,11 @@ Welcome! This repository documents my learning journey in Machine Learning (ML).
 This repo is a reflection of my growth as an aspiring Machine Learning Engineer: from learning algorithms in class to applying them on real-world datasets, and understanding the complete ML workflow.
 
 🌟 My Journey So Far
-
-           Started with core ML concepts like Regression, Classification, and Clustering.
-           Practiced data preprocessing, visualization, and feature engineering.
-           Built mini-projects to consolidate learning: predicting house prices, customer churn, and more.
-           Explored evaluation metrics and model optimization.
-           Documented every step to create a reproducible, real-world workflow.
+-Started with core ML concepts like Regression, Classification, and Clustering.
+-Practiced data preprocessing, visualization, and feature engineering.
+-Built mini-projects to consolidate learning: predicting house prices, customer churn, and more.
+-Explored evaluation metrics and model optimization.
+-Documented every step to create a reproducible, real-world workflow.
 
 
 📘 Projects & Concepts Implemented
@@ -43,11 +42,11 @@ Run the cells step-by-step to see results, plots, and learnings.
 
 🌱 Skills & Learning Focus
 
-                      Translating ML theory into working models
-                      Applying algorithms on real datasets
-                      Visualizing and interpreting model performance
-                      Improving coding practices and documentation
-                      Building a foundation for advanced ML and AI projects
+-Translating ML theory into working models
+-Applying algorithms on real datasets
+-Visualizing and interpreting model performance
+-Improving coding practices and documentation
+-Building a foundation for advanced ML and AI projects
 
 🧾 Future Plans
 

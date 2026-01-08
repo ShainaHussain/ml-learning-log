@@ -1,6 +1,6 @@
 ## 🧠 My Machine Learning Journey
 
-Welcome! This repository documents my learning journey in Machine Learning (ML). Here, I transform theoretical concepts into hands-on implementations — building projects, exploring datasets, and improving my coding and analytical skills every week.
+Welcome! This repository documents my learning journey in Machine Learning (ML). Here, I transform theoretical concepts into hands-on implementations building projects, exploring datasets, and improving my coding and analytical skills every week.
 
 This repo is a reflection of my growth as an aspiring Machine Learning Engineer: from learning algorithms in class to applying them on real-world datasets, and understanding the complete ML workflow.
 
